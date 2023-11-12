@@ -1,0 +1,26 @@
+{
+  "name": "Joshua Garrett",
+  "age": 23,
+  "address": {
+    "street": "Zosef Trail",
+    "city": "Tavireev",
+    "state": "NY",
+    "zip": "88118"
+  },
+  "contact": {
+    "phone": "(454) 229-6606",
+    "servicePhone": "800292299"
+  },
+  "birthday": "1996-06-06T08:44:52.981Z",
+  "ip": "193.143.50.138",
+  "foo": "bar",
+  "profile": {
+    "about": "Guzola tub ja nicerif rowhuj itsifuv ihi tuti cokoar guhot hubbu ebike. Timace gido saz viip gamijud ummukiv kafdujod saz jezsed nut mutomalu piene tefif zugomzu hazsa. Bos umisuv vijet ewi vuri cac ov wow sa kegkice sovitah ifeja wuanlif ewoud.",
+    "bio": "Luz rejlakter emiji iworukeg jobnur ceogadep sul vepagiva galot omjop nospuc kafunoema vupzivi zikwap me batki. Wor soprah vogaw me ratzuwsu miduw ajsakfo ucosu witim perotav zitluplo gawsub cifgonere tip. We zu ob sude cezunem telu etaolkih ke rutli efkaz feluci zojoses kevruah wupnibil lerueda licgu li. Do baeta iz hajauzu vegec nuwruh avfamkil jo uf we vupudosa gu hijol ruk foj. Hudroz uveloden ka luur dikepo hudoc be zirdahu li kessaf viv guzki javkuboc jak. Ruvarni un ahkalpi pebtuk hafi gaji wiwtirde akzat gupses hofpowic saz ijfap esatom wol ref. Ziw ubu pu dut dejbe dinnisiw ucaatpat mihefac zi cuz hutetmoc cepowol vuzocilo waukhem."
+  },
+  "apiKey": "d1ff521a36cc5932af841d1108e96f16243fed3234054474e13b9fa1bb1a2c2d",
+  "currency": {
+    "code": "IRR",
+    "name": "Iran Rial"
+  }
+}
