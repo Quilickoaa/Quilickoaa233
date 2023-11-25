@@ -1,0 +1,26 @@
+{
+  "name": "Thomas Banks",
+  "age": 20,
+  "address": {
+    "street": "Pimfi Ridge",
+    "city": "Konjiple",
+    "state": "MI",
+    "zip": "22426"
+  },
+  "contact": {
+    "phone": "(984) 939-9524",
+    "servicePhone": "800864645"
+  },
+  "birthday": "1975-09-15T00:52:11.973Z",
+  "ip": "6.230.23.115",
+  "foo": "bar",
+  "profile": {
+    "about": "Zog bup tujeru ola azusabfu kiszi di gur tibatnip sesebri uwi kehulpu soneh mucot rele nulun meb. Cag dogso socma ovo ifo sirud zaz ec hiz pohebzis co je kuw cucok kelfo fim. Ik ucaunilib pig kavacba ihikeb boij zis ne bemmana rupifa di baro.",
+    "bio": "Gir guci jozceb inuis agvepi naf ne voduj hijgel imimud jo adadi po monwa refefo po banow mi. Ehafivem ce tedopi do viacosu pijosba imomah luj pecmu vuceguh fiwwol adusul jenaoz ri go re nehipsa. Hotnojte pi na saace tawoku te lofpon nitduecu fakgalit disem suvjatuh tibwuowi rerdeg buvtezwuz zivi nef fe. Ihbumot ji hopuma feg feceh zaoji vuhnub nek owaoz zov enpuoz onfiru cugri."
+  },
+  "apiKey": "0357496963c1902827b8b0d1f1a391a40d83cd9699c59f75576a2068bb5b3881",
+  "currency": {
+    "code": "KPW",
+    "name": "Korea (North) Won"
+  }
+}
