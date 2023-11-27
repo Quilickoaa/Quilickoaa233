@@ -1,0 +1,26 @@
+{
+  "name": "Sallie Nguyen",
+  "age": 40,
+  "address": {
+    "street": "Tiomu Mill",
+    "city": "Heheoni",
+    "state": "MO",
+    "zip": "06621"
+  },
+  "contact": {
+    "phone": "(850) 299-2626",
+    "servicePhone": "800898527"
+  },
+  "birthday": "1960-10-28T14:28:05.180Z",
+  "ip": "181.98.29.163",
+  "foo": "bar",
+  "profile": {
+    "about": "Hasipo tofoti ol ozri jekitja tipsu afe omomi abjevse garetfi emedom duh ped du je futu. Wasi wapbowa oblorzeh so tegizo li rukheva idwi ramila rijak ruzluad osuvicumo pifni ivukag do sav. Ehiwe mifezo bozvejwen ego luguhuat azumorap pif su uceutdu or ec ifi to bibke ta kowwuk iwobi juh.",
+    "bio": "So su uwu foivu rud kehel sen uwzuvho nu zag te bagi tozrar sajar ti sa. Adasalud osipobwov pe ruitu few ogzo se sim ze mudoni lic sogo zimpohpo. Re sugji udubed omedi sarive zan vebbo zima bet uk ej vetaf penjog."
+  },
+  "apiKey": "cba162dcaa2ec7df3b7b30f9fb0d78680d36390057776959ac1082308bb6af10",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  }
+}
