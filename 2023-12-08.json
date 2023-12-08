@@ -1,0 +1,26 @@
+{
+  "name": "Christina Austin",
+  "age": 20,
+  "address": {
+    "street": "Devkiz Circle",
+    "city": "Velsongo",
+    "state": "RI",
+    "zip": "80730"
+  },
+  "contact": {
+    "phone": "(702) 261-2233",
+    "servicePhone": "800579636"
+  },
+  "birthday": "1987-04-02T23:44:40.280Z",
+  "ip": "244.117.23.46",
+  "foo": "bar",
+  "profile": {
+    "about": "Mizefah gamdun tiwezehil hubabut wi fudizec tofoh wewebi guwhodana ceog zo pul neahu holouz. Zefih ezo irtoz ebuhi net ha hegukihu munil ewja og ugren tasvab. Wenu vicuh zuk ade cebam uzuhuwab laf lok hijap cufuco bowmif pap belisza ir.",
+    "bio": "Bumojop awuma ne kedvic poj fa gum wuriz dapav sa ra keplo guwo cavuc bizo. Someki gefemah pepdohni jiub toul nemurha kih has jivudip uli paraki mav zapudtaj. Dih wufruhoj gu ijuligaf kotruuwi zug urijowu bacocto sojaz lanbiz zifhu zadhah ipubi aheuca kat iha ojenup idbazamo. Vesata rasluljos vop mevoeco mavgo ruedi gi aca owavunbam zu gegpa etazikuh wol. Omkilo seggoina zevo ibupa mi fu ku simiriuse pahfubo um nakamos kujem apjaw. Mad icgujog neh fizivom woana nezibecok vicrak sir zutna guckaow efuj koeza mikosoji ek lepgewi lud ogu dumowla. Ufeafage wura medawwa zamen tiosgek re efefuah oriidgen laf uja bimeratu loz pemi ni."
+  },
+  "apiKey": "d7b7872404810b750596bb2a22347775f9631e02051ab3e69ca51e4953a4b6ed",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}
