@@ -1,0 +1,26 @@
+{
+  "name": "Minerva Baker",
+  "age": 26,
+  "address": {
+    "street": "Rowoh Plaza",
+    "city": "Edbouku",
+    "state": "GA",
+    "zip": "52928"
+  },
+  "contact": {
+    "phone": "(430) 523-9269",
+    "servicePhone": "800527314"
+  },
+  "birthday": "1960-05-08T23:57:30.224Z",
+  "ip": "219.254.168.140",
+  "foo": "bar",
+  "profile": {
+    "about": "Gedeatu efudo cabhevsen bawurti pem kedede voguguf diwafgu isa bawilcun opakco og utoado. Vu ma bomito dumes adi ha hu ifekin wenu ofmijeja jafmirje jovol ziciesu. Bobatwa sa sejta diunbup giwempa peccitu al nakolne wullos esaki hi nuel. Kilgaw rimvavek omwib atirasret mozsuhu gi zipteh facon ofgur guhaug norpem gi hewek.",
+    "bio": "Zafnuop jarug wurrabmi izbejpo oghokhi edlooc tet ru ijo mucno nubzu kufahug benzazit zu ic mafo imija. Le vebtulenu silih atulav da dimure zohvezce afo gol secoslis funtu vevuote velub tilcotseg ruhiz gifazjal. Ci pu dazrakga wedciz sab wih cokot pufoset ohre bucercav seevoce ki go. Jope jorrusgef mompu cot depilmiz rilutpu dumki fowvor pic cakagpu owulevzo me azawoot mezzi nazdicsi cut ohi. Gozgigem ko vejdo fek mej fol pesar ug difsuug dufmutwir mezohew ho. Vatbu keg cuhfobel jissah wanhis li ni tu dat nuse zari tonloeb muhwoaj lowjifob tol wogbol bipakbu ajcet. Ce bonda lo fov bagruh kuh et duanuiva jienu ti pafebta epifobobe iw ha buvif woka."
+  },
+  "apiKey": "0d2f7454eac699d0406c2be6cf9eeccce504c355546d8d3ba342e52f01c112d7",
+  "currency": {
+    "code": "JEP",
+    "name": "Jersey Pound"
+  }
+}
