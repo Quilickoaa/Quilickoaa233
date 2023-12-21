@@ -1,0 +1,26 @@
+{
+  "name": "Marie Ballard",
+  "age": 39,
+  "address": {
+    "street": "Kelun Path",
+    "city": "Mejuzu",
+    "state": "NV",
+    "zip": "17983"
+  },
+  "contact": {
+    "phone": "(683) 926-1129",
+    "servicePhone": "800717882"
+  },
+  "birthday": "1967-03-01T20:19:03.958Z",
+  "ip": "220.63.60.111",
+  "foo": "bar",
+  "profile": {
+    "about": "Awu gidatsuf unomeseg fev pon jonepnip peg sa orugij ri zanavej efe ba gi nekun nava em. Gacir puhlawi kin wekezbu bazirkez tit egasaez juhdo tontuol uhonaji zuvhiklu odvumma maohome jainiwe wevahu sosituk bo. Cij eza gacde dunisbaw du ugopsuc ketoj lupfosib ac wog cihfuti lu gatkopim tebsuek ri. Ku si zavadaiwe eprup humkec ri zo sag watepko obocoje du webbizag aca ru.",
+    "bio": "Odemukho lazir ewu caflaj rehjudeg baza gaav asehoubo wupap firmem ewodekav hohiv etgo so rokfofoc oginaje ersi uf. Me ke fe zulni maz be jipzaj ehgi sefuri mobotpij busnaj ni tad. Isli caor jeebtic agijoh namzun ebivus ovkagtot hinhe vuale havcupdo nulih udtithit adieduge."
+  },
+  "apiKey": "d432131c375244fa06a1ff30ccaadf81b8e7a63a4527a037308931f01d90644d",
+  "currency": {
+    "code": "MMK",
+    "name": "Myanmar (Burma) Kyat"
+  }
+}
