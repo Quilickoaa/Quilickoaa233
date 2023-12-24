@@ -1,0 +1,26 @@
+{
+  "name": "Mason Beck",
+  "age": 18,
+  "address": {
+    "street": "Ecmet Plaza",
+    "city": "Regvisu",
+    "state": "AL",
+    "zip": "96773"
+  },
+  "contact": {
+    "phone": "(833) 375-3374",
+    "servicePhone": "800257885"
+  },
+  "birthday": "2004-06-07T16:43:27.877Z",
+  "ip": "74.168.146.228",
+  "foo": "bar",
+  "profile": {
+    "about": "Gi rinrotup cutmauw gabu po abowigo jadcu lecor ongizlo du jesuawu mekuz. Mo cit alki iv racper dopnalciw gonmo fiwrumic dub fi tibu ifasofzap epesani lapoz wap udda. Moca ukisa reuzen bubziwli wuginuw to vafje cihtidni ebibok pu jowjo ze biwsevbo. Hecdahod eb paz tekotal lin cih sajavif nimawaj hovo upo hufumed hazvoena cijoz.",
+    "bio": "Pogfabses ecizihto jovrijmi oro tad jovugaigi geawha ejuf lo afozagwo ba tif jirgo motvufden bapadpe foku douwpi. Uwetev dohid vivowu olic hirzi seduvi em zes gek gunnuki zoafeli magcupibo ujgo zejho cud. Ar ejpeusu maj me puwme ge ig herim zildelsa magperer gicinwa sa cicdem zibi varlun cow do. Pi kuipajik kewob kufib akben tagnogvol ucjag wi hirew nacnog jahwali sa vij napavad to uviej muvoni. Fef hewguon cutsuviw sasiok piz pe cuni soholo heovo guizlu aljub zombuszo ujic agunimeg vezmar neugmu ev daz."
+  },
+  "apiKey": "876496d2d31bf72e94ae796569ce189e7a07ac57e9e7e40c943905d913bb13e3",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
