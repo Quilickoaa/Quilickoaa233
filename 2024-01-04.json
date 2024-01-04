@@ -1,0 +1,26 @@
+{
+  "name": "Evan Goodman",
+  "age": 19,
+  "address": {
+    "street": "Rozi Loop",
+    "city": "Gokesrag",
+    "state": "DE",
+    "zip": "13526"
+  },
+  "contact": {
+    "phone": "(401) 601-9109",
+    "servicePhone": "800293529"
+  },
+  "birthday": "1992-05-24T04:54:19.476Z",
+  "ip": "196.234.104.28",
+  "foo": "bar",
+  "profile": {
+    "about": "Gu lo oduog ra du johenu felrail musho wo wajatafo mokuleav tubwer kikur dejoc buh catwekteg cigano pit. Lewiler kuv peed fir zu gitloja wiphuef raoreuge lulew purzoj perha wuajo hesocgi juturad. Zuvevdo gorezoco vopu zem vitwupi en cihircu udlu dehidnaj sopduvtu bor cubsi zazuza vipopa ikuzebca mi jolecem. Nulojaseb ijgeturo al kib kuzdizavu odu sutun bem ehuni fig co tijbom dotowlo zup rol odocozne pihadejum.",
+    "bio": "Lumebivum ipahidip ule gutuk inogez keg wa fijanvof naar oz uzu fihvu jigi. Honejwer bal gonbicic fiwarije odkug uli ma oreti sosacuz zofucov otapo wepluloc vucsefzer curozge gowuhpaz ku zoki ra. Ziwho so aw duhiw wag sidow fe por uzomamo de koti wopoh. Harsela ate he neojeafi ocajure cokez tojatihoj zuced mem hez me kip vufuf duncecpa rifa. Ujtosra hicor gozbi dubol ribfe porpe cewfanpo natuja vom uczit ded bawivan fuvamut wehla kidleg fetfod fudpoji."
+  },
+  "apiKey": "8f2a508860ecf07687afd4a1a0ce33ee8545fb4f9035623fd77e65ec43d452f3",
+  "currency": {
+    "code": "MNT",
+    "name": "Mongolia Tughrik"
+  }
+}
