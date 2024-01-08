@@ -1,0 +1,26 @@
+{
+  "name": "Bettie Carson",
+  "age": 51,
+  "address": {
+    "street": "Tejje Center",
+    "city": "Ahfolis",
+    "state": "MA",
+    "zip": "59510"
+  },
+  "contact": {
+    "phone": "(734) 327-8525",
+    "servicePhone": "800121118"
+  },
+  "birthday": "1984-11-28T00:16:40.807Z",
+  "ip": "113.91.250.179",
+  "foo": "bar",
+  "profile": {
+    "about": "Isigu taboco narvok leato pesbi hervesot inova waghur foacauf epige sigez ofuhumi iga wu apawi foh zo veplomo. Tucci edo hokgoeta kuw firje cubtez idi otjaj uh enrukve cet okrovran. Witaf milekdu apobal rotu pi jehamtu eri zu narhakfod nel vugakaehi vefe niome zonwoh bigfu.",
+    "bio": "Du kumom faustew dij fosvine doizu hebkoz vulito ib sepol nu zoloj gawuozo. Fodolsis zokace doftatewa waspos vofak po ihuha ettisu nehbup zakpimhe pajna jocsizpur he ceptazub fut efbalij apto ro. Owaneji comic vicdi meb zeda iriidcu ca wuwesto jagufsod ku gabrazi rofhu jo toatrec. Ma wejkuf zuvih hagisceb of bajef muku sel do efrirjal emowo dew mohgi hisvaeje boju buh if womeh."
+  },
+  "apiKey": "62a293e38fbd1d166388d8c47487213024de1e0927454d6440f5d1ec217af293",
+  "currency": {
+    "code": "BOB",
+    "name": "Bolivia Boliviano"
+  }
+}
