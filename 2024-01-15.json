@@ -1,0 +1,26 @@
+{
+  "name": "Jack Mathis",
+  "age": 35,
+  "address": {
+    "street": "Ramap Key",
+    "city": "Dugenu",
+    "state": "LA",
+    "zip": "19814"
+  },
+  "contact": {
+    "phone": "(783) 831-6363",
+    "servicePhone": "800384115"
+  },
+  "birthday": "1989-08-22T23:40:02.794Z",
+  "ip": "27.84.56.178",
+  "foo": "bar",
+  "profile": {
+    "about": "Ijrug bahi tufokja guf rouje juba zijza me wi or vamivfo fevdic. Nebulit peet utji cojun zi uwihabij makiwecof ce nerdod kepwiuf rienazu umior. Umlakgoz sijpi bezkube ku duhosur cocozezup ho mep imior pusvat sibropgil ko kiuhu lul. Zupsufik favpikat isu nuuleig jegegu pami zu keva rufihvur pejepto ni fobbuzsiz reca jo rum suupepe. Ri zidaud ut jo rowoh ogiwa mitja hiuve tuevkan le tu eve hugtacu.",
+    "bio": "Ul ejaenebet uca ho gu izojim ser hanu laprup umjeswon unewu ez vewe wi umojez des fevvo. Upjoj mufow nu bis huzuvzep doemu ajlog dietja cal uh pope sokenika hizbum na feowsaw humno. Haodigu aw coug niemgiw wut pacemgi lafdooda geresij de uw puvi tobila zuntap ti maduloeju vo."
+  },
+  "apiKey": "8f46e2481dc4fd0250d2f7db8255d1a9aeb1adab23616d26150599acc85352ae",
+  "currency": {
+    "code": "AFN",
+    "name": "Afghanistan Afghani"
+  }
+}
