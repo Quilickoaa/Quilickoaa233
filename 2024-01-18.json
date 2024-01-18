@@ -1,0 +1,26 @@
+{
+  "name": "Amy McKenzie",
+  "age": 64,
+  "address": {
+    "street": "Nolec Trail",
+    "city": "Idgunjoj",
+    "state": "HI",
+    "zip": "69478"
+  },
+  "contact": {
+    "phone": "(501) 317-5863",
+    "servicePhone": "800351938"
+  },
+  "birthday": "1993-08-22T23:22:50.399Z",
+  "ip": "232.65.27.220",
+  "foo": "bar",
+  "profile": {
+    "about": "Abana fez tolocu hupcu kobbi sup buz wo vivadaok unaelo lid talbeli guz micu suvbeknu agri ikobosec. Jignij oj kukgehbow ham ru wiatco suwjuh okios luibo efiwanuz cipidfi izlazsug. Wiguzri ag ke sifgok nos jubol upowo hazihizi iwtos moawugu sanluwub bih bivublu tefawa gi unkebur.",
+    "bio": "Bu huzaju saku ep nokeg iso behmu bakuman virhelgi tolipni wulvewsas jokedo. Huvgugav mefmamfe afvaz sifi vozip pognuz uwdipus ika ludafu vejneivo fe bel kuliri vabazwal ebaka le likla. Kanamak metulsed kezigvot du eraro red guffo poetbek ofid odu je badicmor."
+  },
+  "apiKey": "421e8a975a5442a691862fd678628647b7bc93ddbd00eb7fd3133d78afbfbbe3",
+  "currency": {
+    "code": "PLN",
+    "name": "Poland Zloty"
+  }
+}
