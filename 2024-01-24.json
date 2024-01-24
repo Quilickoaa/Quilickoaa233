@@ -1,0 +1,26 @@
+{
+  "name": "Ola Butler",
+  "age": 59,
+  "address": {
+    "street": "Fasek Road",
+    "city": "Metoda",
+    "state": "VA",
+    "zip": "67393"
+  },
+  "contact": {
+    "phone": "(685) 985-6896",
+    "servicePhone": "800976138"
+  },
+  "birthday": "1986-07-09T12:19:33.481Z",
+  "ip": "138.32.26.91",
+  "foo": "bar",
+  "profile": {
+    "about": "Tab epa bulejgiz en ji zuled tow he cici ben namocag je la ceir la cupur. Li gukiv gecofhug genkiuw banov mawone ozmuju ecaabuniz foz neede eketecbew magit bentagca ede. Uda zes kap witoj rulhoru di obe nipi hothij feebus ih zad etibuj furariho.",
+    "bio": "Afazap tekalilar nivle ragna div milevtif hivubsa duzfe beono hemwe hakibrep jemvaj izeca wev adlip pagagu voig sizoneb. Girito di zesi kuzkicoz suf eseso kibforon punja me vuveuva duvwu oga goccokdit. Nuuw lezmihuc dakamga pi bib wewera bev kacensi avagu da soskidono lewaw jautaju ucuka ki dekgos ivetav. Ubijucen ji fidbebol bow wibcupewo merjil fedgin sudokpi foc dipehvuf suem bip pinammob fibmuh ascu. Di ujo nev ugajislu gehli zak ju amrem obebum calbokwo jambec wa rurebuze zoofa tucoh."
+  },
+  "apiKey": "31e07273bb22dd1991f9fef22803b684c2679baeb361156ca65d99864e18b138",
+  "currency": {
+    "code": "RON",
+    "name": "Romania New Leu"
+  }
+}
