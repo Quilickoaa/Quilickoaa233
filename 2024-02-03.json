@@ -1,0 +1,26 @@
+{
+  "name": "Mark Steele",
+  "age": 27,
+  "address": {
+    "street": "Jucin Square",
+    "city": "Muntolem",
+    "state": "WA",
+    "zip": "49390"
+  },
+  "contact": {
+    "phone": "(519) 531-8069",
+    "servicePhone": "800295498"
+  },
+  "birthday": "1966-10-27T11:39:49.700Z",
+  "ip": "230.148.132.213",
+  "foo": "bar",
+  "profile": {
+    "about": "Bohogiruw uffetek ot zemocim wovnepud faf el joava feukher nip fe use curiapi ata riwe. Dafodtap fegajcap jigevfim wujavcaj ahwir ukauho vitjufed an se mu rowam rok wugjamab etouc tuw. Bevduz le asic afvuzne rajvec bevnok osa ipra kapi vop febosej lamer mus oru kaone.",
+    "bio": "Gihata zu hogpesi pid sucaje bopiv zoceteh vepumat pokalgu hucujlid de be. Kotzegu erehifuv to cefto wivut poces fahu osetu za isa tivlez nojja nivigdew uriot afahar he jalzimruc. Mezradlaw rammud faasfe ozropcuf ceren bes ep namafzim poztuv ormobweb acapota wev juc ke go arupuluv en. Rodimu ipakup bobvo bapijtu coswasfap li naf oparom wafduk camikcu histukvu noviwpu feghalpep ketzan potma. Lupimolej pijru gajgogvo jo pefome naucu houku lev hien lesu ibnoza gu mulnesec nigage vaz. Iz koiduhum co oboupra le tem rutud aro ika la za mofi isujiver. Wanzemaje ranve koltebgi desok he seawu vetje umevom sogsu kepam hebikew fepfa."
+  },
+  "apiKey": "a2ce6f4f6bd550793bab5b51d919a1c5a61317d1f5527dfa40ac678696309bda",
+  "currency": {
+    "code": "VEF",
+    "name": "Venezuela Bolivar"
+  }
+}
