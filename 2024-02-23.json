@@ -1,0 +1,26 @@
+{
+  "name": "Ina Jacobs",
+  "age": 18,
+  "address": {
+    "street": "Poak Plaza",
+    "city": "Zulnini",
+    "state": "FL",
+    "zip": "18185"
+  },
+  "contact": {
+    "phone": "(640) 603-8129",
+    "servicePhone": "800546462"
+  },
+  "birthday": "1990-10-22T08:18:58.579Z",
+  "ip": "48.88.151.56",
+  "foo": "bar",
+  "profile": {
+    "about": "Pif tu rogefufo kiwlef kigifah sebi pa dunu ehuw no agi ujolazup. Mundogjut dofwivpe apuboat ugucebus lucu feomo uhuvike de foesosow beznu wonolcu oviiso buznec tagev. Delomoanu cigdi irnon riram saz du zunanaile vaw obvo vo rog pitdo pe uh lup aze hejan. Wus daoc uhorizoj moz ni tateobi tu nuf kagohlo pus zirmaan ifupu alenof ibaliki foru cut. Vo tonegpuz kopocika fefko car hufiti sunudnes ti ri selfun iz kejnis zovfiak viloed.",
+    "bio": "Havase jub zachopos lupipme ur tol umulo fupida fig vu mode wo zehtide ito abegurus dannezu izekinpu soagucor. Avde asawif doloh puit cutesi ro kujkada butaz itmod javpeti uz hidnopu uja pihviga gecbih miw inpez nihgekso. Jaf volruipo lagu fos gepidaf nom kogme fitmi educaktu zepdem etavedkeg isuw pulgojme. Popiral ik satohir man fot tu ujous javkuswec kahikgid dud nuri umcif mo nesefhal wuba untufib gi. Hipun ma kaw ik adobe pu daokdi tob diluud pa henza vodero asni ludaza bo suvrov goctihib ut."
+  },
+  "apiKey": "e67a7f873efa95cf999a22a34563ead8abee0682bee347aab2be1d924fdf6b37",
+  "currency": {
+    "code": "ZWD",
+    "name": "Zimbabwe Dollar"
+  }
+}
