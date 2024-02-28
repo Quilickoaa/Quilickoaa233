@@ -1,0 +1,26 @@
+{
+  "name": "Ida Huff",
+  "age": 23,
+  "address": {
+    "street": "Cadar Mill",
+    "city": "Lizorib",
+    "state": "TX",
+    "zip": "39392"
+  },
+  "contact": {
+    "phone": "(836) 490-8583",
+    "servicePhone": "800929975"
+  },
+  "birthday": "1999-03-23T11:22:51.704Z",
+  "ip": "128.252.237.247",
+  "foo": "bar",
+  "profile": {
+    "about": "Hez za cil galez fuvud tap gaplu re mituwim wo ramzejse jatimve. Jutgev wula uphat ne atoheje bogeg bub bu de ke riwdek des hiub ha goevefej. Kidehiv warkejco leasota gihab fedbila mivmu ma mitmafsob nomefpic uwjouco zejuswa suzis nal hecefi. Vosoka luc getublef lekepfo rah gov jazvetu riro gi wan lep ren ijofih fuhgig perek. Tata tofunes dodtaek pe fuv lug nis mezmildah caftil fiiluza dezkocciw bikowwej ujetufjed zon sawmiwoz kusafah maz fapibete. Ubbar haulomuk saphev zipcif ba te dos setciw jiviveod sutepla ono tu re us ijtam.",
+    "bio": "Tiosu vusveljif odezinipa busmadruv casci ugi us uwu vuwlo zasig dev kowomev. Ki tigvahrow ha be wonuv ze sahnun eggob kim jih kidihueg di icizosi. Je wo put numa motse sed cedut oketinme we dib to fisobgi fo vu saktepuj nosa fenhunag. Re sohok tuojacoj vibim sugirciv mupe nafim dujcezga imhavwa wuw fedafu bufpojase epsudon ti nakafso vovoza."
+  },
+  "apiKey": "14de39c56932f76465f93da776f6cae5c206ae10d890933cf671d38a9b5d1152",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
