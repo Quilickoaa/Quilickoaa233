@@ -1,0 +1,26 @@
+{
+  "name": "Barbara Erickson",
+  "age": 29,
+  "address": {
+    "street": "Robara Avenue",
+    "city": "Ibibuopi",
+    "state": "DE",
+    "zip": "04262"
+  },
+  "contact": {
+    "phone": "(576) 504-3426",
+    "servicePhone": "800219519"
+  },
+  "birthday": "1990-11-17T09:13:09.904Z",
+  "ip": "64.7.176.208",
+  "foo": "bar",
+  "profile": {
+    "about": "Je ga nafwujif lu mucif oze navfag te hidod vasarrim ecdijoc rildid ugtup morfuav ka zib loibuno. Be nifinje miz uja bez zirbuw kubsaghe cano uncu ipaaj upezu hojada tidgif tu. Jijuwi kozsoona ahges di en tadiseut de gurogo ajidcec ot zapipida ij.",
+    "bio": "Buphe te fi mub tajo jab udvi udu ved cahgore mot zafopwo mithusfo. Vebaun sab damele ve hitu bunonori kibtu kuwuhod ujone vituk ecnuroh nuvti ov helwekren fidijotu du. Afuret birar ho lujije di lovtozbop upodonbe jevoz delza ika zojsine zi zinit."
+  },
+  "apiKey": "5abe5b31ac8ea1b87f0b69120c0e4587fdaa760f3137b47262c58e29a9861218",
+  "currency": {
+    "code": "UZS",
+    "name": "Uzbekistan Som"
+  }
+}
