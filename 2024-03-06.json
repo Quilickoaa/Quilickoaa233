@@ -1,0 +1,26 @@
+{
+  "name": "Sue Dunn",
+  "age": 22,
+  "address": {
+    "street": "Vudi Way",
+    "city": "Togavbi",
+    "state": "ID",
+    "zip": "26375"
+  },
+  "contact": {
+    "phone": "(562) 681-5598",
+    "servicePhone": "800249916"
+  },
+  "birthday": "1964-05-23T17:53:33.073Z",
+  "ip": "36.78.22.15",
+  "foo": "bar",
+  "profile": {
+    "about": "Narnom pegnan jof cu toded uzko deskavuz hatmotneh wenbi ocaasoler pe leapu secha sec. Puheoni gifid wuzlo gu kothijale ucuson sop caomobe hipun cinkuh jewbig fozos ruhormor ze vit. Fuafo efaufzuf nat du zikpaek tuuvorof nuroveile odejapdic nuomnec se ojze izfub ravba.",
+    "bio": "Vof ufi fihweed odukub hugzus dov ov efah piju gazlu jubo esmoujo. Cu pin idukav om kirkiz mitubi pu ivegebik fagor aki wo ru ze. Mom hufcupel sa puvnucvup wowhur vak falreti vibagos ukoponson pud ulajavir fivemtok iladigus. Vapja nep go pik saos zi eksiczo ebatu lib bo dos difi sud ecuahohum dihur imijuji."
+  },
+  "apiKey": "76b7c63df5ee583b98955eabaeeb126a8aa90f5d0f4a02ae31233dd2664c2571",
+  "currency": {
+    "code": "SGD",
+    "name": "Singapore Dollar"
+  }
+}
