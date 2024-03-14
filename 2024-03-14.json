@@ -1,0 +1,26 @@
+{
+  "name": "Alfred Smith",
+  "age": 23,
+  "address": {
+    "street": "Tapike Plaza",
+    "city": "Huuwja",
+    "state": "AK",
+    "zip": "50521"
+  },
+  "contact": {
+    "phone": "(676) 333-2083",
+    "servicePhone": "800814253"
+  },
+  "birthday": "1976-11-02T03:23:55.645Z",
+  "ip": "99.200.178.87",
+  "foo": "bar",
+  "profile": {
+    "about": "Gic lujol igiagegi bohdom ko dewhapzi ezo di cibokup ni fafla oleis guk hihu fa. Mo wunhicej kucop mihulsen wuh reej pu megvabnu utef lo rewjarej baguguc noburhah dulikref. Ed wocsen neav escadli munris lutwew ja numaf nigo nut foweer ecezanat. Kaggul di livgavoc ra ed zofemiim hiskualu okajos watam egjuef fenfe jelecju. Do guk ke zensouj duvijkiz joj sewre jioputup opa poza jaup cub curecfep vo.",
+    "bio": "Enfa duhomleb jovtu bobo disoisi us radese ocuziuj mabgob zibdiive baab weh wuruw var. Denak umjulha ru vefko osguzba agdogep gul jojog to wu duvoos guza uha jejeko awiisof edu ujubiz tes. Eg saflo lugon it esa sosuw sugup zafen ijab obcetmil ceczi bov me. Vu hoehmum fucokpev ul si micu gukimfed cigu fo pacbebce jivtufud va le nozacev viuce doppupif geota elohe. Gi nu duftece re cobhapzi acojto remoaw merefdi zokeckeb lipip ga faduffe zawibo gur bajme gikmu gutbiwsaj ag."
+  },
+  "apiKey": "84c69b139f1beb14c9caa7aeda97d49464ea23462f60cdb020dc469391d860ab",
+  "currency": {
+    "code": "LAK",
+    "name": "Laos Kip"
+  }
+}
