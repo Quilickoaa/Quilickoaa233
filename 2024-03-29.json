@@ -1,0 +1,26 @@
+{
+  "name": "Jessie Lewis",
+  "age": 45,
+  "address": {
+    "street": "Ravec Path",
+    "city": "Haccusema",
+    "state": "TX",
+    "zip": "95572"
+  },
+  "contact": {
+    "phone": "(473) 324-9461",
+    "servicePhone": "800744897"
+  },
+  "birthday": "1959-02-26T12:40:27.524Z",
+  "ip": "60.137.26.234",
+  "foo": "bar",
+  "profile": {
+    "about": "Kuvile baw hefiv fesegi ojcakuh pe lokvo aba muzopgi daw juwmawaw ko olaguj fucsojew cunhafoke lok. Ase jo jihnub oda lehim wosvi wunsa abobos vaezame ze gunob ucetes aga fog bo te wo ac. Pulaf kutaseb piz zufaile poibba diatom botiiz su lewgakket atieli fe liwmitu vocelecig gafazu gu uridilwe tarve.",
+    "bio": "Naeg etu ol wuv fec pebsaga hulte aciheci musi ras go ibo ucbu. Zosewdaz lojotot nisijup puzivu ton zu zinit tovpepmud mi nohpeloj noh up gade pumsaz. Guhnimti vazamsik lah jizuknen bamij pi juhridep buozhe dehfin kesmogrig wigge leha cab fe fokutlol uksopnib zovfis."
+  },
+  "apiKey": "53c321c0c43ad0a9c5d6cc24a121e126d9abdfa2bb9d54e3bffbc4db40b18aed",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungary Forint"
+  }
+}
