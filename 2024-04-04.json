@@ -1,0 +1,26 @@
+{
+  "name": "Jean Carter",
+  "age": 40,
+  "address": {
+    "street": "Osamo Place",
+    "city": "Ezpirap",
+    "state": "VA",
+    "zip": "18068"
+  },
+  "contact": {
+    "phone": "(753) 650-6423",
+    "servicePhone": "800796212"
+  },
+  "birthday": "1994-10-15T10:58:04.684Z",
+  "ip": "140.228.60.169",
+  "foo": "bar",
+  "profile": {
+    "about": "Dow uglut panpooj ze ruzoig tislohoj wak fappu kiwpew dilwuz lezakha bebowat ebusona kotmuucu sujmahli. Hizza ule gig bi bodupe mupal kaba egeke repegom aditima ru biju va it. Ihi sodoffur cop pi peidcus ru cehe ta ihojovlu tow di amromac mappene fewrowus.",
+    "bio": "Uzagele jit lar pulej ko voczimzi avajajil bu fug nabun cimpoduf ablaleb. Kupus bobezi wuta bu ocagi bohodaz sic ravmel wozjolgib lakolve ne jujdamdu lesewpuf va isiehlo tegame. Sapum elaemobe vijbuzse pakiples ufugaw ok lik pegmo fozucfu tusuc zeto guas oloacga azeovwis fa. Jigfe ganedlo rudikuce efabora ha nacoka bino vogtu noewki zir lodid hoboef domu kovig noipaz wu oj."
+  },
+  "apiKey": "81e26f24327d8e3a2112ed883b7386f73742f7f8122b4957fc77db92f2c90574",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  }
+}
