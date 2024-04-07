@@ -1,0 +1,26 @@
+{
+  "name": "Shane Foster",
+  "age": 35,
+  "address": {
+    "street": "Acaze Place",
+    "city": "Oripawa",
+    "state": "CT",
+    "zip": "49209"
+  },
+  "contact": {
+    "phone": "(215) 202-3451",
+    "servicePhone": "800468167"
+  },
+  "birthday": "1999-07-16T11:55:55.590Z",
+  "ip": "125.136.22.18",
+  "foo": "bar",
+  "profile": {
+    "about": "Jeegomu rosdibsa cow jergo miug ketsukoc ukceih gaswozi jan po des hevuzka fi jisropfoz awupof com. He lo usubewsa hemesew cazzid saptilok gak tigom pahzezib bim lelup hutfo dinu tapik ufgieto egevofni. Tidavi ez oteva rabivo ugin fe umukabti wulof zi furtiso roscahiz kohudtod morzekub. Jad gag onele meg wagel duzew epu ni vagin jobem ke zivi muvtumhuk.",
+    "bio": "Ata pe muffut olfu butupna suwra motva ojjufum okjuf mijdekgot ugov jazag si ji uho re vacawa ihtawrid. Lunekat ha gibsop be ujnehob zod ta zem rakpogeh kujikule va dulsik nefdeg zedfoh sa put mapo. Hemap wi genci vujud ud bucwirjo tegilu wi in huomdi lam iwwow lihol gu ibisdot zamenfo ka. Irca pefojgu decessul ehi woro kensuska li waobzaj sik me ara bugufal jajozzi por dafor. Vari des ec gi firluf laztu noklitse ibu cumir jozazum ule ke pojpiic mehci resul he. No ke av bon ro jo fevdogwuw ceevu reohmo iso wokha nirraljoz ten ozuzo bajhehi."
+  },
+  "apiKey": "fd143d401b588962cf07072d0b6f1c55c2a0cbae015667f1f5216132ac4cd3f1",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
