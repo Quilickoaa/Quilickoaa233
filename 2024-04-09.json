@@ -1,0 +1,26 @@
+{
+  "name": "Arthur Carpenter",
+  "age": 47,
+  "address": {
+    "street": "Ripsob Street",
+    "city": "Gojhase",
+    "state": "FL",
+    "zip": "29011"
+  },
+  "contact": {
+    "phone": "(848) 682-1314",
+    "servicePhone": "800734374"
+  },
+  "birthday": "1987-11-08T11:13:30.619Z",
+  "ip": "246.141.132.112",
+  "foo": "bar",
+  "profile": {
+    "about": "Obe nihep ibo gabzi fi notwoj niebu woaweete cawasa ka il apvijiz led. Umowami gefe cawbad selbaf meni komu saplo cuf ci kapanoidu ojivade vut re olueleke hecrij. Hofomed mesrazfog jusoz focup ze fehezoj fego wotek wimma zafiz uvebethuh nu tu hifidef. Gitafgos se ca ror tikowve japelvac faoroge fizfait go ico fibkol ejo zaz alifufu ekuvup ficew kehomut.",
+    "bio": "Muh anpuzu cikmu pac mic teacuhu ovura bi han kez lalo cov degpudu zeru jimomi fef emeosu aleh. Za wi pudco deccot beh moz ham kihuh iluwo ah zo tevrivi ila linar vidrocuz. Fe dejseag awolik sis go gipko fakev guef ofecem ej zo ju fur fu. Amlemri ganrur copad ru vofnok nuscu vifzal cudgo peigre oca fitehki tawzuval ew kegze hece jublo lius. Ukobevez biduwos mi zek etane zizsuf ranudu toped kuwekfe ijofoji mun gossu. Jizozhos ojoin bik pukur uca pombir ahidi jutfoama is jiforu zi bewohu zeli gobnacu."
+  },
+  "apiKey": "237425f410b3bd6df85b88ef42171626a04238c23d6c8aa3d16748e06d03094c",
+  "currency": {
+    "code": "JOD",
+    "name": "Jordan Dinar"
+  }
+}
