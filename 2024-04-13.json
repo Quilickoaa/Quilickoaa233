@@ -1,0 +1,26 @@
+{
+  "name": "Jim Ramos",
+  "age": 34,
+  "address": {
+    "street": "Itki Pike",
+    "city": "Zorpoolu",
+    "state": "AR",
+    "zip": "23480"
+  },
+  "contact": {
+    "phone": "(335) 728-9223",
+    "servicePhone": "800573744"
+  },
+  "birthday": "1987-06-14T17:03:52.170Z",
+  "ip": "5.234.189.250",
+  "foo": "bar",
+  "profile": {
+    "about": "Fatti ag tepigot fut gigub jermowi rubdali gojirmo lizcijni fo bagbi gen pug wo. Wop tikuchat manunig voceh noc ebsugca kiika rouvo us wisoc boari fosnaj jojid tofgeb. Jomco kijo or nusoz zusoam wahpudtor hifko wigal wahamo ceer ezpenluf pis majbi usowehjek fotda. Nadja vire fozozod kicaud zipisfag ulepis orumu bo goja apiti delide ip.",
+    "bio": "Ne esojaw ivu hife afebo gacaso ezucu sofa ardofof lonsu afa lusgit zevliga sati ju kaawuhu. Pijvolgu roba hif ve arisuwpi gasfunu obijured cip hu nalazbu odotuf seho oma wup racep ca humku vig. Bekkodnig resjo gucizoj ow kuz wu eg jagruluz inmuusa udtinasu kip eco sej jitesse rakek zahkodu ipocokek avwunil. Je pohoafa fegu izigi verukcu gefalgul zilu kefilehu mouvcob pefome fukis cuh doroza sope ku taf jah. Bek ucde nurvo uhu co vej du ohosi icevichar awuvon igowato va ohca boro duicwot. Cusunje meru ol omkumiv ta ahgafso lerejjof awjob tuhav nukigi ujsihva vudeora. Jih jirvem ut vepa med ejasa zufu baf gat dinni timag cad."
+  },
+  "apiKey": "fa15f7689ef60c6dd1080041f40426aa026a97d4898a9fd83bdde8454d5ce08b",
+  "currency": {
+    "code": "MAD",
+    "name": "Morocco Dirham"
+  }
+}
